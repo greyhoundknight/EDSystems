@@ -1,0 +1,5 @@
+System Comparison for Elite Dangerous
+
+This script's design is to find isolated system pairs using information from EDDB. It is likely extremely inefficient.
+
+Basically it takes a system i and counts the number of systems n within a specified distance (15Ly) by performing the square root of the coordinates.
